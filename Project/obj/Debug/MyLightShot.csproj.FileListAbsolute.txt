@@ -1,0 +1,11 @@
+C:\Users\Администратор\source\repos\MyLightShot\bin\Debug\MyLightShot.exe.config
+C:\Users\Администратор\source\repos\MyLightShot\bin\Debug\MyLightShot.exe
+C:\Users\Администратор\source\repos\MyLightShot\bin\Debug\MyLightShot.pdb
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.MainForm.resources
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.Properties.Resources.resources
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.exe
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.pdb
+C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.ToolForm.resources
