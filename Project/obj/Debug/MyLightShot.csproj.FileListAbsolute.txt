@@ -9,3 +9,14 @@ C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightSh
 C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.exe
 C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.pdb
 C:\Users\Администратор\source\repos\MyLightShot\obj\Debug\MyLightShot.ToolForm.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.csproj.AssemblyReference.cache
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.exe
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.pdb
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\bin\Debug\MyLightShot.exe.config
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\bin\Debug\MyLightShot.exe
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\bin\Debug\MyLightShot.pdb
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.MainForm.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.Properties.Resources.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.ToolForm.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.csproj.GenerateResource.cache
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\Project\obj\Debug\MyLightShot.csproj.CoreCompileInputs.cache
