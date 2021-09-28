@@ -1,9 +1,9 @@
-﻿using MyScreenshot.Models;
+﻿using SimpleScreenshoter.Models;
 using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace MyScreenshot
+namespace SimpleScreenshoter
 {
     class Screenshot
     {

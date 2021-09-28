@@ -1,5 +1,5 @@
 ﻿
-namespace MyScreenshot
+namespace SimpleScreenshoter
 {
     partial class MainForm
     {

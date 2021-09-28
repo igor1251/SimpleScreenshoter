@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{84BA17FF-90B1-4EBD-BB94-CF6987F51085}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>MyScreenshot</RootNamespace>
-    <AssemblyName>MyScreenshot</AssemblyName>
+    <RootNamespace>SimpleScreenshoter</RootNamespace>
+    <AssemblyName>SimpleScreenshoter</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -79,6 +79,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="CustomForms\ToolWindow.resx">
       <DependentUpon>ToolWindow.cs</DependentUpon>

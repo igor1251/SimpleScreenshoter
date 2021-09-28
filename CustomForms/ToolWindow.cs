@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MyScreenshot
+namespace SimpleScreenshoter
 {
     public partial class ToolWindow : Form
     {

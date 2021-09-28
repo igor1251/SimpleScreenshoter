@@ -1,0 +1,11 @@
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\bin\Debug\SimpleScreenshoter.exe.config
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\bin\Debug\SimpleScreenshoter.exe
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\bin\Debug\SimpleScreenshoter.pdb
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.csproj.AssemblyReference.cache
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.MainForm.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.Properties.Resources.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.ToolWindow.resources
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.csproj.GenerateResource.cache
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.exe
+D:\Libraries\Documents\GitHub\SimpleScreenshoter\obj\Debug\SimpleScreenshoter.pdb

@@ -1,4 +1,4 @@
-﻿namespace MyScreenshot.Models
+﻿namespace SimpleScreenshoter.Models
 {
     enum EditMode
     {
