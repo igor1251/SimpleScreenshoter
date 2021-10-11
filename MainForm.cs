@@ -42,14 +42,21 @@ namespace SimpleScreenshoter
             toolWindow.textButton.Click += TextButton_Clicked;
             toolWindow.colorSelectButton.Click += ColorSelectButton_Clicked;
             toolWindow.saveButton.Click += SaveButton_Clicked;
+            toolWindow.exitButton.Click += ExitButton_Clicked;
 
             pen = new Pen(selectedColor, 2.0f);
+            
             arrowPen = new Pen(selectedColor, 3.0f);
             arrowPen.EndCap = System.Drawing.Drawing2D.LineCap.ArrowAnchor;
+            
             cropPen = new Pen(Color.Red, 0.5f);
             cropPen.DashStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+            
             font = new Font("Arial", 15);
             shape = new CustomShape(new Point(), new Point(), pen, shapeType);
+
+            this.Width = Screen.PrimaryScreen.Bounds.Width;
+            this.Height = Screen.PrimaryScreen.Bounds.Height;
         }
 
         private void MainForm_Load(object sender, EventArgs e)
@@ -60,7 +67,10 @@ namespace SimpleScreenshoter
         }
 
 
-
+        private void ExitButton_Clicked(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
 
         private void SaveButton_Clicked(object sender, EventArgs e)
         {

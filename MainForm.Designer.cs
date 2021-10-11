@@ -65,8 +65,10 @@ namespace SimpleScreenshoter
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.textBox);
             this.Controls.Add(this.screenshotPictureBox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MyScreenshot";
             this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.screenshotPictureBox)).EndInit();

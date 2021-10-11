@@ -39,6 +39,7 @@ namespace SimpleScreenshoter
             this.textButton = new System.Windows.Forms.Button();
             this.colorSelectButton = new System.Windows.Forms.Button();
             this.saveButton = new System.Windows.Forms.Button();
+            this.exitButton = new System.Windows.Forms.Button();
             this.flowLayoutPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -52,10 +53,11 @@ namespace SimpleScreenshoter
             this.flowLayoutPanel.Controls.Add(this.textButton);
             this.flowLayoutPanel.Controls.Add(this.colorSelectButton);
             this.flowLayoutPanel.Controls.Add(this.saveButton);
+            this.flowLayoutPanel.Controls.Add(this.exitButton);
             this.flowLayoutPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel.Name = "flowLayoutPanel";
-            this.flowLayoutPanel.Size = new System.Drawing.Size(93, 185);
+            this.flowLayoutPanel.Size = new System.Drawing.Size(93, 231);
             this.flowLayoutPanel.TabIndex = 0;
             // 
             // pencilButton
@@ -130,11 +132,20 @@ namespace SimpleScreenshoter
             this.saveButton.TabIndex = 7;
             this.saveButton.UseVisualStyleBackColor = true;
             // 
+            // exitButton
+            // 
+            this.exitButton.Image = ((System.Drawing.Image)(resources.GetObject("exitButton.Image")));
+            this.exitButton.Location = new System.Drawing.Point(3, 187);
+            this.exitButton.Name = "exitButton";
+            this.exitButton.Size = new System.Drawing.Size(40, 40);
+            this.exitButton.TabIndex = 8;
+            this.exitButton.UseVisualStyleBackColor = true;
+            // 
             // ToolWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(93, 185);
+            this.ClientSize = new System.Drawing.Size(93, 231);
             this.Controls.Add(this.flowLayoutPanel);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Name = "ToolWindow";
@@ -158,5 +169,6 @@ namespace SimpleScreenshoter
         internal System.Windows.Forms.Button textButton;
         internal System.Windows.Forms.Button colorSelectButton;
         internal System.Windows.Forms.Button saveButton;
+        internal System.Windows.Forms.Button exitButton;
     }
 }
